@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TGM Activeness Score Data</title>
+  <style>
+    /* ----------- Base Layout ----------- */
+  body {
+    font-family: "Poppins", "Segoe UI", sans-serif;
+    background: #1e1e1e;
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #eee;
+  }
+
+  h1 {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    background: linear-gradient(90deg, #ff6ec4, #7873f5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  select {
+    margin-bottom: 20px;
+    padding: 10px 14px;
+    border-radius: 16px;
+    border: none;
+    font-size: 1rem;
+    background: #2e2e2e;
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease, background 0.2s ease;
+  }
+
+  select:hover {
+    background: #3a3a3a;
+    transform: scale(1.05);
+  }
+
+  /* Table */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: min(90%, 1500px);
+    margin-top: 20px;
+    background: #2a2a2a;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.5);
+  }
+
+  thead {
+    background: #2d2d2d;
+  }
+
+  th, td {
+    padding: 14px 10px;
+    text-align: center;
+    border-bottom: 1px solid #3a3a3a;
+  }
+
+  th {
+    cursor: pointer;
+    font-weight: 600;
+    color: #fff;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+  }
+
+  th:hover {
+    background: rgba(255,255,255,0.08);
+    color: #dfa3ff; /* playful yellow */
+  }
+
+  tbody tr {
+    transition: transform 0.2s ease, background 0.2s ease;
+  }
+
+  tbody tr:hover {
+    background: rgba(255,255,255,0.05);
+  }
+
+  td {
+    color: #ddd;
+    font-size: 1rem;
+  }
+
+  /* NEW tag */
+  .new-tag {
+    font-size: 0.75rem;
+    vertical-align: super;
+    color: #ff80ab;
+    font-weight: bold;
+    margin-left: 4px;
+    text-shadow: 0 0 6px rgba(255,128,171,0.7);
+  }
+
+
+    /* ----------- Column widths ----------- */
+    th:nth-child(1), td:nth-child(1) { width: 7%; }
+    th:nth-child(2), td:nth-child(2) { width: 18%; }
+    th:nth-child(3), td:nth-child(3),
+    th:nth-child(4), td:nth-child(4),
+    th:nth-child(5), td:nth-child(5),
+    th:nth-child(6), td:nth-child(6),
+    th:nth-child(7), td:nth-child(7)
+    th:nth-child(8), td:nth-child(8) { width: 13%; }
+  
+    /* Stats Grid */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      width: 100%;
+      max-width: min(90%, 1500px);
+      margin-top: 20px;
+    }
+
+    .stat-card {
+      background: linear-gradient(135deg, #2e2e2e, #3b3b3b);
+      border-radius: 16px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+      transition: transform 0.2s ease;
+    }
+
+    .stat-card:hover {
+      transform: scale(1.05);
+    }
+
+    .stat-title {
+      font-size: 0.9rem;
+      color: #aaa;
+      margin-bottom: 10px;
+      letter-spacing: 0.5px;
+    }
+
+    .stat-value {
+      font-size: 1.4rem;
+      font-weight: bold;
+      color: #fff;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>TGM Activity Score Data</h1>
+
+  <label for="week-select">Select Week: </label>
+  <select id="week-select"></select>
+
+  <div id="stats-container" class="stats-grid"></div>
+
+  <table id="data-table">
+    <thead>
+      <tr>
+        <th data-col="rank">Rank</th>
+        <th style="text-align: left;" data-col="id">Name</th>
+        <th data-col="power">Power</th>
+        <th data-col="power_increase">Δ Power</th>
+        <th data-col="help">Help</th>
+        <th data-col="tech">Tech</th>
+        <th data-col="build">Build</th>
+        <th data-col="scores">Scores</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <script src="script.js"></script>
+</body>
+</html>

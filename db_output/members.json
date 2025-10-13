@@ -1,0 +1,856 @@
+{
+  "208069898": {
+    "name": "\u1d40\u1d331 Knight",
+    "std_name": "tg1 knight",
+    "prev_names": [
+      "\u1d40\u1d331 Knight"
+    ]
+  },
+  "208012051": {
+    "name": "\u1d40\u1d33JohnTay",
+    "std_name": "tgjohntay",
+    "prev_names": [
+      "\u1d40\u1d33JohnTay"
+    ]
+  },
+  "207689895": {
+    "name": "\u1d40\u1d33 7m\u1d05\u5f61",
+    "std_name": "tg 7md",
+    "prev_names": [
+      "\u1d40\u1d33 7m\u1d05\u5f61"
+    ]
+  },
+  "207666722": {
+    "name": "\u1d40\u1d33   J   H",
+    "std_name": "tg j h",
+    "prev_names": [
+      "\u1d40\u1d33   J   H"
+    ]
+  },
+  "207545067": {
+    "name": "\u1d40\u1d33\u00c9owyn",
+    "std_name": "tgeowyn",
+    "prev_names": [
+      "\u1d40\u1d33\u00c9owyn"
+    ]
+  },
+  "207808106": {
+    "name": "\u1d40\u1d33KSA",
+    "std_name": "tgksa",
+    "prev_names": [
+      "\u1d40\u1d33KSA"
+    ]
+  },
+  "207516574": {
+    "name": "\u1d40\u1d33FakeTaxi",
+    "std_name": "tgfaketaxi",
+    "prev_names": [
+      "\u1d40\u1d33FakeTaxi"
+    ]
+  },
+  "207756377": {
+    "name": "\u1d40\u1d33AbuYazeed",
+    "std_name": "tgabuyazeed",
+    "prev_names": [
+      "\u1d40\u1d33AbuYazeed"
+    ]
+  },
+  "207742028": {
+    "name": "\u1d40\u1d33 Kn\u00f8nzz",
+    "std_name": "tg knonzz",
+    "prev_names": [
+      "\u1d40\u1d33 Kn\u00f8nzz"
+    ]
+  },
+  "207803468": {
+    "name": "\u1d40\u1d33\u00cdcaro",
+    "std_name": "tgicaro",
+    "prev_names": [
+      "\u1d40\u1d33\u00cdcaro"
+    ]
+  },
+  "207430880": {
+    "name": "\u1d40\u1d33Val",
+    "std_name": "tgval",
+    "prev_names": [
+      "\u1d40\u1d33Val"
+    ]
+  },
+  "207708143": {
+    "name": "\u1d40\u1d33LITO",
+    "std_name": "tglito",
+    "prev_names": [
+      "\u1d40\u1d33LITO"
+    ]
+  },
+  "207706868": {
+    "name": "\u1d40\u1d33Bloody",
+    "std_name": "tgbloody",
+    "prev_names": [
+      "\u1d40\u1d33Bloody"
+    ]
+  },
+  "207585597": {
+    "name": "\u1d40\u1d33    Leo",
+    "std_name": "tg leo",
+    "prev_names": [
+      "\u1d40\u1d33    Leo"
+    ]
+  },
+  "207573253": {
+    "name": "\u1d40\u1d33RednAngry",
+    "std_name": "tgrednangry",
+    "prev_names": [
+      "\u1d40\u1d33RednAngry"
+    ]
+  },
+  "207576234": {
+    "name": "\u1d40\u1d33POATAN",
+    "std_name": "tgpoatan",
+    "prev_names": [
+      "\u1d40\u1d33POATAN"
+    ]
+  },
+  "207743044": {
+    "name": "\u1d40\u1d33Waki",
+    "std_name": "tgwaki",
+    "prev_names": [
+      "\u1d40\u1d33Waki"
+    ]
+  },
+  "208022348": {
+    "name": "\u1d40\u1d33Yushi",
+    "std_name": "tgyushi",
+    "prev_names": [
+      "\u1d40\u1d33Yushi"
+    ]
+  },
+  "207497292": {
+    "name": "\u1d40\u1d33 bk",
+    "std_name": "tg bk",
+    "prev_names": [
+      "\u1d40\u1d33 bk"
+    ]
+  },
+  "207703345": {
+    "name": "\u1d40\u1d33 Lyknight",
+    "std_name": "tg lyknight",
+    "prev_names": [
+      "\u1d40\u1d33 Lyknight"
+    ]
+  },
+  "207993979": {
+    "name": "\u1d40\u1d33 Leopar\u0257",
+    "std_name": "tg leopard",
+    "prev_names": [
+      "\u1d40\u1d33 Leopar\u0257"
+    ]
+  },
+  "207657638": {
+    "name": "\u1d40\u1d33 Odin",
+    "std_name": "tg odin",
+    "prev_names": [
+      "\u1d40\u1d33 Odin"
+    ]
+  },
+  "207415862": {
+    "name": "\u1d40\u1d33SisKatiL",
+    "std_name": "tgsiskatil",
+    "prev_names": [
+      "\u1d40\u1d33SisKatiL"
+    ]
+  },
+  "207520561": {
+    "name": "\u1d40\u1d33 Dragon",
+    "std_name": "tg dragon",
+    "prev_names": [
+      "\u1d40\u1d33 Dragon"
+    ]
+  },
+  "207591891": {
+    "name": "\u1d40\u1d33  Rome 88",
+    "std_name": "tg rome 88",
+    "prev_names": [
+      "\u1d40\u1d33  Rome 88"
+    ]
+  },
+  "207548630": {
+    "name": "\u1d40\u1d33  xCapex",
+    "std_name": "tg xcapex",
+    "prev_names": [
+      "\u1d40\u1d33  xCapex"
+    ]
+  },
+  "207660120": {
+    "name": "\u1d40\u1d33NicoRobin",
+    "std_name": "tgnicorobin",
+    "prev_names": [
+      "\u1d40\u1d33NicoRobin"
+    ]
+  },
+  "207493327": {
+    "name": "\u1d40\u1d331 H\u00e0O",
+    "std_name": "tg1 hao",
+    "prev_names": [
+      "\u1d40\u1d331 H\u00e0O"
+    ]
+  },
+  "207989344": {
+    "name": "\u1d40\u1d33 MiiiKaa",
+    "std_name": "tg miiikaa",
+    "prev_names": [
+      "\u1d40\u1d33 MiiiKaa"
+    ]
+  },
+  "207585604": {
+    "name": "\u1d40\u1d33 BoNy",
+    "std_name": "tg bony",
+    "prev_names": [
+      "\u1d40\u1d33 BoNy"
+    ]
+  },
+  "207494857": {
+    "name": "\u1d40\u1d33 BaNaNa",
+    "std_name": "tg banana",
+    "prev_names": [
+      "\u1d40\u1d33 BaNaNa"
+    ]
+  },
+  "207543628": {
+    "name": "\u1d40\u1d33 Backoni",
+    "std_name": "tg backoni",
+    "prev_names": [
+      "\u1d40\u1d33 Backoni"
+    ]
+  },
+  "207622025": {
+    "name": "\u1d40\u1d33BruceLee",
+    "std_name": "tgbrucelee",
+    "prev_names": [
+      "\u1d40\u1d33BruceLee"
+    ]
+  },
+  "207411186": {
+    "name": "\u1d40\u1d33 \u023e\u0289\u1ea5n",
+    "std_name": "tg tuan",
+    "prev_names": [
+      "\u1d40\u1d33 \u023e\u0289\u1ea5n"
+    ]
+  },
+  "207578281": {
+    "name": "\u1d40\u1d33 Chu\u1ed1i",
+    "std_name": "tg chuoi",
+    "prev_names": [
+      "\u1d40\u1d33 Chu\u1ed1i"
+    ]
+  },
+  "207417688": {
+    "name": "\u1d40\u1d33 A B\u1eafp",
+    "std_name": "tg a bap",
+    "prev_names": [
+      "\u1d40\u1d33 A B\u1eafp"
+    ]
+  },
+  "207584051": {
+    "name": "\u1d40\u1d33Archibald",
+    "std_name": "tgarchibald",
+    "prev_names": [
+      "\u1d40\u1d33Archibald"
+    ]
+  },
+  "207495256": {
+    "name": "\u1d40\u1d33Fit Panda",
+    "std_name": "tgfit panda",
+    "prev_names": [
+      "\u1d40\u1d33Fit Panda"
+    ]
+  },
+  "207591334": {
+    "name": "\u1d40\u1d33Prousche",
+    "std_name": "tgprousche",
+    "prev_names": [
+      "\u1d40\u1d33Prousche"
+    ]
+  },
+  "207681199": {
+    "name": "\u1d40\u1d33G\u1ea5uB\u00e9o",
+    "std_name": "tggaubeo",
+    "prev_names": [
+      "\u1d40\u1d33G\u1ea5uB\u00e9o"
+    ]
+  },
+  "207739729": {
+    "name": "\u1d40\u1d33Brixx",
+    "std_name": "tgbrixx",
+    "prev_names": [
+      "\u1d40\u1d33Brixx"
+    ]
+  },
+  "207601556": {
+    "name": "\u1d40\u1d33 H M",
+    "std_name": "tg h m",
+    "prev_names": [
+      "\u1d40\u1d33 H M"
+    ]
+  },
+  "207510495": {
+    "name": "\u1d40\u1d33Kurosaki",
+    "std_name": "tgkurosaki",
+    "prev_names": [
+      "\u1d40\u1d33Kurosaki"
+    ]
+  },
+  "207429060": {
+    "name": "\u1d40\u1d33Belle",
+    "std_name": "tgbelle",
+    "prev_names": [
+      "\u1d40\u1d33Belle"
+    ]
+  },
+  "207660481": {
+    "name": "\u1d40\u1d33MoriLilit",
+    "std_name": "tgmorililit",
+    "prev_names": [
+      "\u1d40\u1d33MoriLilit"
+    ]
+  },
+  "207414250": {
+    "name": "\u1d40\u1d33nOnAme",
+    "std_name": "tgnoname",
+    "prev_names": [
+      "\u1d40\u1d33nOnAme"
+    ]
+  },
+  "207494771": {
+    "name": "\u1d40\u1d33KTZT",
+    "std_name": "tgktzt",
+    "prev_names": [
+      "\u1d40\u1d33KTZT"
+    ]
+  },
+  "207679984": {
+    "name": "\u1d40\u1d33Kingkoma",
+    "std_name": "tgkingkoma",
+    "prev_names": [
+      "\u1d40\u1d33Kingkoma"
+    ]
+  },
+  "207661747": {
+    "name": "\u1d40\u1d33Xiao",
+    "std_name": "tgxiao",
+    "prev_names": [
+      "\u1d40\u1d33Xiao"
+    ]
+  },
+  "207765530": {
+    "name": "\u1d40\u1d33Joy Boy",
+    "std_name": "tgjoy boy",
+    "prev_names": [
+      "\u1d40\u1d33Joy Boy"
+    ]
+  },
+  "207512478": {
+    "name": "\u1d40\u1d33xAamonx",
+    "std_name": "tgxaamonx",
+    "prev_names": [
+      "\u1d40\u1d33xAamonx"
+    ]
+  },
+  "207665356": {
+    "name": "\u1d40\u1d33D\u0119monF\u00e6",
+    "std_name": "tgdemonfae",
+    "prev_names": [
+      "\u1d40\u1d33D\u0119monF\u00e6"
+    ]
+  },
+  "208001998": {
+    "name": "\u1d40\u1d33IKAFKEFI",
+    "std_name": "tgikafkefi",
+    "prev_names": [
+      "\u1d40\u1d33IKAFKEFI"
+    ]
+  },
+  "207796772": {
+    "name": "\u1d40\u1d33devildog",
+    "std_name": "tgdevildog",
+    "prev_names": [
+      "\u1d40\u1d33devildog"
+    ]
+  },
+  "207449481": {
+    "name": "\u1d40\u1d33 oxyde",
+    "std_name": "tg oxyde",
+    "prev_names": [
+      "\u1d40\u1d33 oxyde"
+    ]
+  },
+  "207741038": {
+    "name": "\u1d40\u1d33Kronsmoor",
+    "std_name": "tgkronsmoor",
+    "prev_names": [
+      "\u1d40\u1d33Kronsmoor"
+    ]
+  },
+  "207411292": {
+    "name": "\u1d40\u1d33Wind",
+    "std_name": "tgwind",
+    "prev_names": [
+      "\u1d40\u1d33Wind"
+    ]
+  },
+  "207574383": {
+    "name": "\u1d40\u1d33Shontae",
+    "std_name": "tgshontae",
+    "prev_names": [
+      "\u1d40\u1d33Shontae"
+    ]
+  },
+  "207916178": {
+    "name": "\u1d40\u1d33Pozole",
+    "std_name": "tgpozole",
+    "prev_names": [
+      "\u1d40\u1d33Pozole"
+    ]
+  },
+  "207414947": {
+    "name": "\u1d40\u1d33 m\u00e8oAnna",
+    "std_name": "tg meoanna",
+    "prev_names": [
+      "\u1d40\u1d33 m\u00e8oAnna"
+    ]
+  },
+  "207585922": {
+    "name": "\u1d40\u1d33 gejems",
+    "std_name": "tg gejems",
+    "prev_names": [
+      "\u1d40\u1d33 gejems"
+    ]
+  },
+  "207594680": {
+    "name": "\u1d40\u1d33B\u00e1nh Bao",
+    "std_name": "tgbanh bao",
+    "prev_names": [
+      "\u1d40\u1d33B\u00e1nh Bao"
+    ]
+  },
+  "207427151": {
+    "name": "\u1d40\u1d33 NarKoS \u30c4",
+    "std_name": "tg narkos",
+    "prev_names": [
+      "\u1d40\u1d33 NarKoS \u30c4"
+    ]
+  },
+  "207453940": {
+    "name": "\u1d40\u1d33 Nh\u00e2n",
+    "std_name": "tg nhan",
+    "prev_names": [
+      "\u1d40\u1d33 Nh\u00e2n"
+    ]
+  },
+  "208236214": {
+    "name": "\u1d40\u1d33XoXo",
+    "std_name": "tgxoxo",
+    "prev_names": [
+      "\u1d40\u1d33XoXo"
+    ]
+  },
+  "207661214": {
+    "name": "\u1d40\u1d33SunV",
+    "std_name": "tgsunv",
+    "prev_names": [
+      "\u1d40\u1d33SunV"
+    ]
+  },
+  "207716465": {
+    "name": "\u1d40\u1d33Huy An",
+    "std_name": "tghuy an",
+    "prev_names": [
+      "\u1d40\u1d33Huy An"
+    ]
+  },
+  "207687239": {
+    "name": "\u1d40\u1d33zEE",
+    "std_name": "tgzee",
+    "prev_names": [
+      "\u1d40\u1d33zEE"
+    ]
+  },
+  "207745823": {
+    "name": "\u1d40\u1d33A7md",
+    "std_name": "tga7md",
+    "prev_names": [
+      "\u1d40\u1d33A7md"
+    ]
+  },
+  "207602852": {
+    "name": "\u1d40\u1d33MrTeri",
+    "std_name": "tgmrteri",
+    "prev_names": [
+      "\u1d40\u1d33MrTeri"
+    ]
+  },
+  "207662154": {
+    "name": "\u1d40\u1d33Thanhh1",
+    "std_name": "tgthanhh1",
+    "prev_names": [
+      "\u1d40\u1d33Thanhh1"
+    ]
+  },
+  "207492194": {
+    "name": "\u1d40\u1d33 DonK",
+    "std_name": "tg donk",
+    "prev_names": [
+      "\u1d40\u1d33 DonK"
+    ]
+  },
+  "207461859": {
+    "name": "\u1d40\u1d33Meow",
+    "std_name": "tgmeow",
+    "prev_names": [
+      "\u1d40\u1d33Meow"
+    ]
+  },
+  "207434370": {
+    "name": "\u1d40\u1d330verlostt",
+    "std_name": "tg0verlostt",
+    "prev_names": [
+      "\u1d40\u1d330verlostt"
+    ]
+  },
+  "207503949": {
+    "name": "\u1d40\u1d33STUARTLIL",
+    "std_name": "tgstuartlil",
+    "prev_names": [
+      "\u1d40\u1d33STUARTLIL"
+    ]
+  },
+  "207495724": {
+    "name": "\u1d40\u1d33V\u0169 GT",
+    "std_name": "tgvu gt",
+    "prev_names": [
+      "\u1d40\u1d33V\u0169 GT"
+    ]
+  },
+  "207497174": {
+    "name": "\u1d40\u1d33 L\u1eedng",
+    "std_name": "tg lung",
+    "prev_names": [
+      "\u1d40\u1d33 L\u1eedng"
+    ]
+  },
+  "207739644": {
+    "name": "\u1d40\u1d33Loki",
+    "std_name": "tgloki",
+    "prev_names": [
+      "\u1d40\u1d33Loki"
+    ]
+  },
+  "207576059": {
+    "name": "\u1d40\u1d33Huncho",
+    "std_name": "tghuncho",
+    "prev_names": [
+      "\u1d40\u1d33Huncho"
+    ]
+  },
+  "207514446": {
+    "name": "\u1d40\u1d33Ocula",
+    "std_name": "tgocula",
+    "prev_names": [
+      "\u1d40\u1d33Ocula"
+    ]
+  },
+  "207503237": {
+    "name": "\u1d40\u1d33Thallos",
+    "std_name": "tgthallos",
+    "prev_names": [
+      "\u1d40\u1d33Thallos"
+    ]
+  },
+  "207666112": {
+    "name": "\u1d40\u1d33 WarLord\u30c3",
+    "std_name": "tg warlord",
+    "prev_names": [
+      "\u1d40\u1d33 WarLord\u30c3"
+    ]
+  },
+  "207695732": {
+    "name": "\u1d40\u1d33mrwarlord",
+    "std_name": "tgmrwarlord",
+    "prev_names": [
+      "\u1d40\u1d33mrwarlord"
+    ]
+  },
+  "207492744": {
+    "name": "\u1d40\u1d33Chu\u1ed1ito",
+    "std_name": "tgchuoito",
+    "prev_names": [
+      "\u1d40\u1d33Chu\u1ed1ito"
+    ]
+  },
+  "207411357": {
+    "name": "\u1d40\u1d33ZORN",
+    "std_name": "tgzorn",
+    "prev_names": [
+      "\u1d40\u1d33ZORN"
+    ]
+  },
+  "207412318": {
+    "name": "\u1d40\u1d33B\u1ed1ng",
+    "std_name": "tgbong",
+    "prev_names": [
+      "\u1d40\u1d33B\u1ed1ng"
+    ]
+  },
+  "207578764": {
+    "name": "\u1d40\u1d33Dr\u00e8\u00e1m",
+    "std_name": "tgdream",
+    "prev_names": [
+      "\u1d40\u1d33Dr\u00e8\u00e1m"
+    ]
+  },
+  "207411649": {
+    "name": "\u1d40\u1d33Wiliam \u00d4",
+    "std_name": "tgwiliam o",
+    "prev_names": [
+      "\u1d40\u1d33Wiliam \u00d4"
+    ]
+  },
+  "207576113": {
+    "name": "\u1d40\u1d33 naya",
+    "std_name": "tg naya",
+    "prev_names": [
+      "\u1d40\u1d33 naya"
+    ]
+  },
+  "207666056": {
+    "name": "\u1d40\u1d33Nuom",
+    "std_name": "tgnuom",
+    "prev_names": [
+      "\u1d40\u1d33Nuom"
+    ]
+  },
+  "207524313": {
+    "name": "\u1d40\u1d33Jone",
+    "std_name": "tgjone",
+    "prev_names": [
+      "\u1d40\u1d33Jone"
+    ]
+  },
+  "207431719": {
+    "name": "\u1d40\u1d33LaiBanh",
+    "std_name": "tglaibanh",
+    "prev_names": [
+      "\u1d40\u1d33LaiBanh"
+    ]
+  },
+  "207428697": {
+    "name": "\u1d40\u1d33JackDa",
+    "std_name": "tgjackda",
+    "prev_names": [
+      "\u1d40\u1d33JackDa"
+    ]
+  },
+  "207483830": {
+    "name": "\u1d40\u1d33 MUHANNAD",
+    "std_name": "tg muhannad",
+    "prev_names": [
+      "\u1d40\u1d33 MUHANNAD"
+    ]
+  },
+  "207744451": {
+    "name": "\u1d40\u1d33\u30e1METEHAN\u30e1",
+    "std_name": "tgmetehan",
+    "prev_names": [
+      "\u1d40\u1d33\u30e1METEHAN\u30e1"
+    ]
+  },
+  "207513347": {
+    "name": "\u1d40\u1d33 Tr s\u01a1n",
+    "std_name": "tg tr son",
+    "prev_names": [
+      "\u1d40\u1d33 Tr s\u01a1n"
+    ]
+  },
+  "207497732": {
+    "name": "\u1d40\u1d33Hinaevv",
+    "std_name": "tghinaevv",
+    "prev_names": [
+      "\u1d40\u1d33Hinaevv"
+    ]
+  },
+  "207580817": {
+    "name": "\u1d40\u1d33MAVE KIM",
+    "std_name": "tgmave kim",
+    "prev_names": [
+      "\u1d40\u1d33MAVE KIM"
+    ]
+  },
+  "207627663": {
+    "name": "\u1d40\u1d33Belgarion",
+    "std_name": "tgbelgarion",
+    "prev_names": [
+      "\u1d40\u1d33Belgarion"
+    ]
+  },
+  "207622861": {
+    "name": "\u1d40\u1d33GAZI PASA",
+    "std_name": "tggazi pasa",
+    "prev_names": [
+      "\u1d40\u1d33GAZI PASA"
+    ]
+  },
+  "207493324": {
+    "name": "\u1d40\u1d33 KickiTi",
+    "std_name": "tg kickiti",
+    "prev_names": [
+      "\u1d40\u1d33 KickiTi"
+    ]
+  },
+  "207990790": {
+    "name": "\u1d40\u1d33 ToroP",
+    "std_name": "tg torop",
+    "prev_names": [
+      "\u1d40\u1d33 ToroP"
+    ]
+  },
+  "207494885": {
+    "name": "\u1d40\u1d33TOPGUN",
+    "std_name": "tgtopgun",
+    "prev_names": [
+      "\u1d40\u1d33TOPGUN"
+    ]
+  },
+  "207520209": {
+    "name": "\u1d40\u1d33 Tgn",
+    "std_name": "tg tgn",
+    "prev_names": [
+      "\u1d40\u1d33 Tgn"
+    ]
+  },
+  "207526967": {
+    "name": "\u1d40\u1d33 ls",
+    "std_name": "tg ls",
+    "prev_names": [
+      "\u1d40\u1d33 ls"
+    ]
+  },
+  "207414093": {
+    "name": "\u1d40\u1d33Katinko",
+    "std_name": "tgkatinko",
+    "prev_names": [
+      "\u1d40\u1d33Katinko"
+    ]
+  },
+  "207681143": {
+    "name": "\u1d40\u1d33TheVOTKA",
+    "std_name": "tgthevotka",
+    "prev_names": [
+      "\u1d40\u1d33TheVOTKA"
+    ]
+  },
+  "207772823": {
+    "name": "\u1d40\u1d33SIL67",
+    "std_name": "tgsil67",
+    "prev_names": [
+      "\u1d40\u1d33SIL67"
+    ]
+  },
+  "207769258": {
+    "name": "\u1d40\u1d33 SATRAP",
+    "std_name": "tg satrap",
+    "prev_names": [
+      "\u1d40\u1d33 SATRAP"
+    ]
+  },
+  "207451608": {
+    "name": "\u1d40\u1d33Althzer",
+    "std_name": "tgalthzer",
+    "prev_names": [
+      "\u1d40\u1d33Althzer"
+    ]
+  },
+  "207467962": {
+    "name": "\u1d40\u1d33 Honest",
+    "std_name": "tg honest",
+    "prev_names": [
+      "\u1d40\u1d33 Honest"
+    ]
+  },
+  "207412169": {
+    "name": "\u1d40\u1d33Pjkachu",
+    "std_name": "tgpjkachu",
+    "prev_names": [
+      "\u1d40\u1d33Pjkachu"
+    ]
+  },
+  "207578340": {
+    "name": "\u1d40\u1d33 Cakalang",
+    "std_name": "tg cakalang",
+    "prev_names": [
+      "\u1d40\u1d33 Cakalang"
+    ]
+  },
+  "207514205": {
+    "name": "\u1d40\u1d33CATRACHO",
+    "std_name": "tgcatracho",
+    "prev_names": [
+      "\u1d40\u1d33CATRACHO"
+    ]
+  },
+  "207741858": {
+    "name": "\u1d40\u1d33 Sh\u00e2llyn",
+    "std_name": "tg shallyn",
+    "prev_names": [
+      "\u1d40\u1d33 Sh\u00e2llyn"
+    ]
+  },
+  "207666156": {
+    "name": "\u1d40\u1d33Duke IV",
+    "std_name": "tgduke iv",
+    "prev_names": [
+      "\u1d40\u1d33Duke IV"
+    ]
+  },
+  "207663431": {
+    "name": "\u1d40\u1d33\uff92Fl\u00e3me",
+    "std_name": "tgmeflame",
+    "prev_names": [
+      "\u1d40\u1d33\uff92Fl\u00e3me"
+    ]
+  },
+  "207411021": {
+    "name": "\u1d40\u1d33 WOLF",
+    "std_name": "tg wolf",
+    "prev_names": [
+      "\u1d40\u1d33 WOLF"
+    ]
+  },
+  "207573073": {
+    "name": "\u1d40\u1d33 JHINN",
+    "std_name": "tg jhinn",
+    "prev_names": [
+      "\u1d40\u1d33 JHINN"
+    ]
+  },
+  "207536279": {
+    "name": "\u1d40\u1d33Toji",
+    "std_name": "tgtoji",
+    "prev_names": [
+      "\u1d40\u1d33Toji"
+    ]
+  },
+  "207580581": {
+    "name": "\u1d40\u1d33 macao",
+    "std_name": "tg macao",
+    "prev_names": [
+      "\u1d40\u1d33 macao"
+    ]
+  },
+  "207547504": {
+    "name": "\u1d40\u1d33Dani\u00e9l",
+    "std_name": "tgdaniel",
+    "prev_names": [
+      "\u1d40\u1d33Dani\u00e9l"
+    ]
+  }
+}

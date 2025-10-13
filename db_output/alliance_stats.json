@@ -1,0 +1,24 @@
+{
+  "0": {
+    "average_power": [
+      17092691,
+      7515733
+    ],
+    "average_power_increase": [
+      0,
+      0
+    ],
+    "average_help": [
+      1341,
+      1390
+    ],
+    "average_tech": [
+      54238,
+      15163
+    ],
+    "average_build": [
+      27031,
+      30908
+    ]
+  }
+}

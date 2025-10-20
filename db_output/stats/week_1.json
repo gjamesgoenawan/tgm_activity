@@ -1091,11 +1091,11 @@
   },
   "208069898": {
     "power": 76859794,
-    "power_increase": -1053351,
+    "power_increase": 0,
     "help": 1065,
     "tech": 63600,
     "build": 857,
-    "scores": -624566,
+    "scores": 428785,
     "rank": 110,
     "new": false
   },

@@ -14,17 +14,19 @@
     ]
   },
   "207689895": {
-    "name": "\u1d40\u1d33 7m\u1d05\u5f61",
-    "std_name": "tg 7md",
+    "name": "\uff2b\uff49\uff52\uff4f",
+    "std_name": "kiro",
     "prev_names": [
-      "\u1d40\u1d33 7m\u1d05\u5f61"
+      "\u1d40\u1d33 7m\u1d05\u5f61",
+      "\uff2b\uff49\uff52\uff4f"
     ]
   },
   "207666722": {
-    "name": "\u1d40\u1d33   J   H",
+    "name": "\u1d40\u1d33   J H",
     "std_name": "tg j h",
     "prev_names": [
-      "\u1d40\u1d33   J   H"
+      "\u1d40\u1d33   J   H",
+      "\u1d40\u1d33   J H"
     ]
   },
   "207545067": {
@@ -56,10 +58,11 @@
     ]
   },
   "207742028": {
-    "name": "\u1d40\u1d33 Kn\u00f8nzz",
-    "std_name": "tg knonzz",
+    "name": "\u1d40\u1d33TALV\u00d8RN",
+    "std_name": "tgtalvorn",
     "prev_names": [
-      "\u1d40\u1d33 Kn\u00f8nzz"
+      "\u1d40\u1d33 Kn\u00f8nzz",
+      "\u1d40\u1d33TALV\u00d8RN"
     ]
   },
   "207803468": {
@@ -105,10 +108,11 @@
     ]
   },
   "207576234": {
-    "name": "\u1d40\u1d33POATAN",
-    "std_name": "tgpoatan",
+    "name": "\u1d40\u1d33TheMAC",
+    "std_name": "tgthemac",
     "prev_names": [
-      "\u1d40\u1d33POATAN"
+      "\u1d40\u1d33POATAN",
+      "\u1d40\u1d33TheMAC"
     ]
   },
   "207743044": {
@@ -189,10 +193,11 @@
     ]
   },
   "207493327": {
-    "name": "\u1d40\u1d331 H\u00e0O",
-    "std_name": "tg1 hao",
+    "name": "\u1d40\u1d33play me",
+    "std_name": "tgplay me",
     "prev_names": [
-      "\u1d40\u1d331 H\u00e0O"
+      "\u1d40\u1d331 H\u00e0O",
+      "\u1d40\u1d33play me"
     ]
   },
   "207989344": {
@@ -276,6 +281,8 @@
     "name": "\u1d40\u1d33G\u1ea5uB\u00e9o",
     "std_name": "tggaubeo",
     "prev_names": [
+      "\u1d40\u1d33G\u1ea5uB\u00e9o",
+      "\u1d40\u1d33 Panda",
       "\u1d40\u1d33G\u1ea5uB\u00e9o"
     ]
   },
@@ -462,10 +469,11 @@
     ]
   },
   "207716465": {
-    "name": "\u1d40\u1d33Huy An",
-    "std_name": "tghuy an",
+    "name": "\u1d40\u1d33 Dior",
+    "std_name": "tg dior",
     "prev_names": [
-      "\u1d40\u1d33Huy An"
+      "\u1d40\u1d33Huy An",
+      "\u1d40\u1d33 Dior"
     ]
   },
   "207687239": {
@@ -595,10 +603,11 @@
     ]
   },
   "207412318": {
-    "name": "\u1d40\u1d33B\u1ed1ng",
-    "std_name": "tgbong",
+    "name": "\u1d40\u1d33\u00df\u1ed1\u0143\u011e",
+    "std_name": "tgssong",
     "prev_names": [
-      "\u1d40\u1d33B\u1ed1ng"
+      "\u1d40\u1d33B\u1ed1ng",
+      "\u1d40\u1d33\u00df\u1ed1\u0143\u011e"
     ]
   },
   "207578764": {
@@ -852,5 +861,82 @@
     "prev_names": [
       "\u1d40\u1d33Dani\u00e9l"
     ]
+  },
+  "208184549": {
+    "name": "\u1d40\u1d33machinaMa",
+    "std_name": "tgmachinama",
+    "prev_names": [
+      "\u1d40\u1d33machinaMa"
+    ]
+  },
+  "207828155": {
+    "name": "\u1d40\u1d33 TATARIN\u30c3",
+    "std_name": "tg tatarin",
+    "prev_names": [
+      "\u1d40\u1d33 TATARIN\u30c3"
+    ]
+  },
+  "207411714": {
+    "name": "\u1d38\u1d9cMada\u4e48Uc",
+    "std_name": "lmadayao uc",
+    "prev_names": [
+      "\u1d38\u1d9cMada\u4e48Uc"
+    ]
+  },
+  "207989513": {
+    "name": "\u1d40\u1d33Maxou",
+    "std_name": "tgmaxou",
+    "prev_names": [
+      "\u1d40\u1d33Maxou"
+    ]
+  },
+  "207729811": {
+    "name": "\u1d40\u1d33AKAZ\u00c5",
+    "std_name": "tgakaza",
+    "prev_names": [
+      "\u1d40\u1d33AKAZ\u00c5"
+    ]
+  },
+  "208007074": {
+    "name": "\u1d40\u1d33Icky",
+    "std_name": "tgicky",
+    "prev_names": [
+      "\u1d40\u1d33Icky"
+    ]
+  },
+  "208183391": {
+    "name": "\u1d40\u1d33EelLick",
+    "std_name": "tgeellick",
+    "prev_names": []
+  },
+  "207752734": {
+    "name": "\u1d40\u1d33Veysel",
+    "std_name": "tgveysel",
+    "prev_names": []
+  },
+  "207746172": {
+    "name": "han n\u00e8",
+    "std_name": "han ne",
+    "prev_names": []
+  },
+  "207660440": {
+    "name": "\u1d40\u1d33KayZ",
+    "std_name": "tgkayz",
+    "prev_names": []
+  },
+  "207918015": {
+    "name": "\u1d40\u1d33Malek",
+    "std_name": "tgmalek",
+    "prev_names": []
+  },
+  "207818254": {
+    "name": "\u1d40\u1d33 NAM",
+    "std_name": "tg nam",
+    "prev_names": []
+  },
+  "207829061": {
+    "name": "\u1d40\u1d33 kai",
+    "std_name": "tg kai",
+    "prev_names": []
   }
 }

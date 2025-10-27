@@ -1095,66 +1095,16 @@
     "help": 1065,
     "tech": 63600,
     "build": 857,
-    "scores": 428785,
+    "scores": -624566,
     "rank": 110,
     "new": false
   },
-  "207829061": {
-    "power": 19304748,
+  "208007074": {
+    "power": 6675591,
     "power_increase": 0,
-    "help": 280,
-    "tech": 28500,
-    "build": 40000,
-    "scores": "-",
-    "rank": "-",
-    "new": true
-  },
-  "207752734": {
-    "power": 21029171,
-    "power_increase": 0,
-    "help": 43,
-    "tech": 5600,
-    "build": 0,
-    "scores": "-",
-    "rank": "-",
-    "new": true
-  },
-  "207660440": {
-    "power": 19303707,
-    "power_increase": 0,
-    "help": 41,
-    "tech": 600,
-    "build": 0,
-    "scores": "-",
-    "rank": "-",
-    "new": true
-  },
-  "207746172": {
-    "power": 20020382,
-    "power_increase": 0,
-    "help": 34,
-    "tech": 2400,
-    "build": 0,
-    "scores": "-",
-    "rank": "-",
-    "new": true
-  },
-  "207918015": {
-    "power": 14381716,
-    "power_increase": 0,
-    "help": 425,
-    "tech": 44400,
-    "build": 84769,
-    "scores": "-",
-    "rank": "-",
-    "new": true
-  },
-  "207729811": {
-    "power": 17641622,
-    "power_increase": 0,
-    "help": 0,
-    "tech": 31700,
-    "build": 0,
+    "help": 107,
+    "tech": 8000,
+    "build": 245,
     "scores": "-",
     "rank": "-",
     "new": true
@@ -1169,22 +1119,42 @@
     "rank": "-",
     "new": true
   },
-  "208184549": {
-    "power": 19791423,
+  "207752734": {
+    "power": 21029171,
     "power_increase": 0,
-    "help": 971,
-    "tech": 47100,
-    "build": 4194,
+    "help": 43,
+    "tech": 5600,
+    "build": 0,
     "scores": "-",
     "rank": "-",
     "new": true
   },
-  "207828155": {
-    "power": 14956831,
+  "207989513": {
+    "power": 20186287,
     "power_increase": 0,
-    "help": 690,
-    "tech": 36800,
-    "build": 20137,
+    "help": 2130,
+    "tech": 68500,
+    "build": 37369,
+    "scores": "-",
+    "rank": "-",
+    "new": true
+  },
+  "207746172": {
+    "power": 20020382,
+    "power_increase": 0,
+    "help": 34,
+    "tech": 2400,
+    "build": 0,
+    "scores": "-",
+    "rank": "-",
+    "new": true
+  },
+  "207729811": {
+    "power": 17641622,
+    "power_increase": 0,
+    "help": 0,
+    "tech": 31700,
+    "build": 0,
     "scores": "-",
     "rank": "-",
     "new": true
@@ -1199,6 +1169,16 @@
     "rank": "-",
     "new": true
   },
+  "207660440": {
+    "power": 19303707,
+    "power_increase": 0,
+    "help": 41,
+    "tech": 600,
+    "build": 0,
+    "scores": "-",
+    "rank": "-",
+    "new": true
+  },
   "208183391": {
     "power": 17439702,
     "power_increase": 0,
@@ -1209,22 +1189,42 @@
     "rank": "-",
     "new": true
   },
-  "208007074": {
-    "power": 6675591,
+  "207828155": {
+    "power": 14956831,
     "power_increase": 0,
-    "help": 107,
-    "tech": 8000,
-    "build": 245,
+    "help": 690,
+    "tech": 36800,
+    "build": 20137,
     "scores": "-",
     "rank": "-",
     "new": true
   },
-  "207989513": {
-    "power": 20186287,
+  "207829061": {
+    "power": 19304748,
     "power_increase": 0,
-    "help": 2130,
-    "tech": 68500,
-    "build": 37369,
+    "help": 280,
+    "tech": 28500,
+    "build": 40000,
+    "scores": "-",
+    "rank": "-",
+    "new": true
+  },
+  "208184549": {
+    "power": 19791423,
+    "power_increase": 0,
+    "help": 971,
+    "tech": 47100,
+    "build": 4194,
+    "scores": "-",
+    "rank": "-",
+    "new": true
+  },
+  "207918015": {
+    "power": 14381716,
+    "power_increase": 0,
+    "help": 425,
+    "tech": 44400,
+    "build": 84769,
     "scores": "-",
     "rank": "-",
     "new": true

@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TGM Member Activity</title>
   <link rel="stylesheet" href="assets/styles.css">
+  
 </head>
 <body>
   <div class="content-wrapper">
@@ -18,6 +20,20 @@
 
     <div id="stats-container" class="stats-grid"></div>
 
+    <!-- Mobile sort control (only visible on small screens) -->
+    <div id="mobile-sort-bar" class="mobile-sort" aria-hidden="true" style="display:none;">
+      <label for="mobile-sort-select" class="sr-only">Sort by</label>
+      <select id="mobile-sort-select" aria-label="Sort members">
+        <option value="rank:asc">Rank ↑</option>
+        <option value="rank:desc">Rank ↓</option>
+        <option value="scores:desc">Scores ↓</option>
+        <option value="scores:asc">Scores ↑</option>
+        <option value="power:desc">Power ↓</option>
+        <option value="power:asc">Power ↑</option>
+      </select>
+    </div>
+
+    <!-- Desktop table -->
     <table id="data-table">
       <thead>
         <tr>
@@ -33,6 +49,10 @@
       </thead>
       <tbody></tbody>
     </table>
+
+    <!-- Mobile accordion (visible on small screens) -->
+    <div id="accordion-container" class="accordion" aria-live="polite"></div>
+
   </div>
   <footer class="site-footer">
     <div class="footer-content">

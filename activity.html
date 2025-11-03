@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TGM Member Activity</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="content-wrapper">
+
+    <div class="content-title">
+      <a href="index.html" class="back-btn">◀</a>
+      <h1>TGM Member Activity</h1>
+    </div>
+
+    <label for="week-select">Select Week: </label>
+    <select id="week-select"></select>
+
+    <div id="stats-container" class="stats-grid"></div>
+
+    <table id="data-table">
+      <thead>
+        <tr>
+          <th data-col="rank">Rank</th>
+          <th style="text-align: left;" data-col="id">Name</th>
+          <th data-col="power">Power</th>
+          <th data-col="power_increase">Δ Power</th>
+          <th data-col="help">Help</th>
+          <th data-col="tech">Tech</th>
+          <th data-col="build">Build</th>
+          <th data-col="scores">Scores</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-item">
+        <a href="https://discord.gg/pBSYQmbB" target="_blank" class="footer-link">
+            <img src="assets/discord_icon.png" alt="Discord" class="footer-icon">
+        </a>
+        </div>
+        <div class="footer-item" id="footer-updated">Last updated: --</div>
+    </div>
+  </footer>
+  <script type="module" src="./scripts/activity.js"></script>
+</body>
+</html>

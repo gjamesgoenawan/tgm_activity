@@ -109,11 +109,12 @@
     ]
   },
   "207576234": {
-    "name": "\u1d40\u1d33TheMAC",
-    "std_name": "tgthemac",
+    "name": "\u1d40\u1d33 S\u00eflfer",
+    "std_name": "tg silfer",
     "prev_names": [
       "\u1d40\u1d33POATAN",
-      "\u1d40\u1d33TheMAC"
+      "\u1d40\u1d33TheMAC",
+      "\u1d40\u1d33 S\u00eflfer"
     ]
   },
   "207743044": {
@@ -152,10 +153,11 @@
     ]
   },
   "207657638": {
-    "name": "\u1d40\u1d33 Odin",
-    "std_name": "tg odin",
+    "name": "Kindred BUM",
+    "std_name": "kindred bum",
     "prev_names": [
-      "\u1d40\u1d33 Odin"
+      "\u1d40\u1d33 Odin",
+      "Kindred BUM"
     ]
   },
   "207415862": {
@@ -415,10 +417,11 @@
     ]
   },
   "207916178": {
-    "name": "\u1d40\u1d33Pozole",
-    "std_name": "tgpozole",
+    "name": "\u1d40\u1d33Totoro",
+    "std_name": "tgtotoro",
     "prev_names": [
-      "\u1d40\u1d33Pozole"
+      "\u1d40\u1d33Pozole",
+      "\u1d40\u1d33Totoro"
     ]
   },
   "207414947": {
@@ -608,7 +611,7 @@
   },
   "207412318": {
     "name": "\u1d40\u1d33\u00df\u1ed1\u0143\u011e",
-    "std_name": "tgssong",
+    "std_name": "tgbong",
     "prev_names": [
       "\u1d40\u1d33B\u1ed1ng",
       "\u1d40\u1d33\u00df\u1ed1\u0143\u011e"
@@ -692,11 +695,12 @@
     ]
   },
   "207580817": {
-    "name": "\u1d40\u1d33 VERSACE",
-    "std_name": "tg versace",
+    "name": "\u1d40\u1d33 MAVE",
+    "std_name": "tg mave",
     "prev_names": [
       "\u1d40\u1d33MAVE KIM",
-      "\u1d40\u1d33 VERSACE"
+      "\u1d40\u1d33 VERSACE",
+      "\u1d40\u1d33 MAVE"
     ]
   },
   "207627663": {
@@ -742,10 +746,11 @@
     ]
   },
   "207526967": {
-    "name": "\u1d40\u1d33 ls",
-    "std_name": "tg ls",
+    "name": "\u1d40\u1d33 Minhkang",
+    "std_name": "tg minhkang",
     "prev_names": [
-      "\u1d40\u1d33 ls"
+      "\u1d40\u1d33 ls",
+      "\u1d40\u1d33 Minhkang"
     ]
   },
   "207414093": {
@@ -756,10 +761,11 @@
     ]
   },
   "207681143": {
-    "name": "\u1d40\u1d33TheVOTKA",
-    "std_name": "tgthevotka",
+    "name": "C0CAC0LA ZER0",
+    "std_name": "c0cac0la zer0",
     "prev_names": [
-      "\u1d40\u1d33TheVOTKA"
+      "\u1d40\u1d33TheVOTKA",
+      "C0CAC0LA ZER0"
     ]
   },
   "207772823": {
@@ -1028,9 +1034,42 @@
       "Tr\u00e0 \u0110\u00e1  N"
     ]
   },
-  "207847094": {
+  "207827850": {
     "name": "\u1d40\u1d33 spctr",
     "std_name": "tg spctr",
+    "prev_names": []
+  },
+  "207660203": {
+    "name": "\u1d40\u1d33  Aizen",
+    "std_name": "tg aizen",
+    "prev_names": [
+      "\u1d40\u1d33  Aizen"
+    ]
+  },
+  "207427324": {
+    "name": "\u1d40\u1d33 \u989c\u7389",
+    "std_name": "tg yan yu",
+    "prev_names": [
+      "\u1d40\u1d33 \u989c\u7389"
+    ]
+  },
+  "207660420": {
+    "name": "\u1d40\u1d33BIGzz",
+    "std_name": "tgbigzz",
+    "prev_names": [
+      "\u1d40\u1d33BIGzz"
+    ]
+  },
+  "207993058": {
+    "name": "\u1d40\u1d33Caomei\u7231",
+    "std_name": "tgcaomeiai",
+    "prev_names": [
+      "\u1d40\u1d33Caomei\u7231"
+    ]
+  },
+  "207997967": {
+    "name": "\u1d40\u1d33Dot",
+    "std_name": "tgdot",
     "prev_names": []
   }
 }

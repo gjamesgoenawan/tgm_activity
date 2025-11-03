@@ -160,7 +160,7 @@ th:nth-child(8), td:nth-child(8) { width: 13%; }
 /* footer & misc kept */
 .subtitle { font-size: 0.8rem; color: var(--muted); margin-top: -15px; font-style: italic; }
 .motd { background: var(--panel); border-radius: 16px; width: 100%; text-align: left; box-shadow: 0 4px 12px rgba(0,0,0,0.3); }
-#motd-title, #motd-text { color: var(--text-dim); padding-left: 25px; }
+#motd-title, #motd-text { color: var(--text-dim); padding-left: 25px; padding-right: 25px;}
 .button-group { display: flex; justify-content: center; gap: 15px; width: 100%; }
 .btn { all: unset; flex: 1; text-align: center; background: #3a3a3a; color: #fff; padding: 20px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); transition: transform 0.2s, background 0.2s; }
 .btn:hover { background: #4a4a4a; }

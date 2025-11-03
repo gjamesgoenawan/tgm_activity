@@ -128,7 +128,7 @@ th:nth-child(8), td:nth-child(8) { width: 13%; }
 .stats-grid {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between; /* stretch items across the row */
+    justify-content: space-evenly; /* stretch items across the row */
     gap: 20px;
     width: 100%;
 }
@@ -198,7 +198,7 @@ th:nth-child(8), td:nth-child(8) { width: 13%; }
     text-align: center;
     background: #3a3a3a;
     color: #fff;
-    padding: 20px;
+    padding: 20px 0px 20px 0px;
     border-radius: 12px;
     text-decoration: none;
     font-size: 1rem;
@@ -220,7 +220,7 @@ th:nth-child(8), td:nth-child(8) { width: 13%; }
     font-size: 12px;
     width: 100%;
     color: #656565;
-    padding: 15px 20px;
+    padding: 15px 0px 15px 0px;
     margin-top: 60px;
     border-top: 1px solid #3a3a3a;
 }
